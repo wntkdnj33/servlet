@@ -1,0 +1,14 @@
+
+j
+java:S1192""HDefine a constant instead of duplicating this literal "counter" 4 times.(¢âé’ıÿÿÿÿ8‹šÊòÀ1
+4
+java:S2176"Rename this class.(ú·ìøÿÿÿÿ8ŸšÇòÀ1
+\
+java:S1161":Add the "@Override" annotation above this method signature(˜µö²ÿÿÿÿÿ8¡šÇòÀ1
+B
+java:S3457"%String contains no format specifiers.(ú¤ÁÂ8µÓÈòÀ1
+G	java:S106"+Replace this use of System.err by a logger.(ú¤ÁÂ8µÓÈòÀ1
+G
+java:S3457)"%String contains no format specifiers.(ìšÏñûÿÿÿÿ8ˆÃÉòÀ1
+L	java:S106)"+Replace this use of System.err by a logger.(ìšÏñûÿÿÿÿ8ˆÃÉòÀ1
+G	java:S106?"+Replace this use of System.out by a logger.(ğ¬É÷8—›ÊòÀ1

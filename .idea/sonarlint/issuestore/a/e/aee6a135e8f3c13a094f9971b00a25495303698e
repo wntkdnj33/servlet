@@ -1,0 +1,22 @@
+
+B
+java:S2157"%Add a "clone()" method to this class.(ñ¬ÿ8™ß«ö¿1
+E
+java:S1068	"(Remove this unused "name" private field.(Ë¥¼8¶¬ö¿1
+F
+java:S1068
+")Remove this unused "value" private field.(ŸÑÆ÷8µß«ö¿1
+M
+java:S1068"+Remove this unused "comment" private field.(øÛ¼ùÿÿÿÿ8¶ß«ö¿1
+L
+java:S1068"*Remove this unused "domain" private field.(€í¼ üÿÿÿÿ8º¨ö¿1
+G
+java:S1068"*Remove this unused "maxAge" private field.(ŒÊé‰8»¨ö¿1
+J
+java:S1068"(Remove this unused "path" private field.(á¨©æıÿÿÿÿ8»¨ö¿1
+G
+java:S1068"*Remove this unused "secure" private field.(äíèÁ8»¨ö¿1
+M
+java:S1068"+Remove this unused "version" private field.(Ë¤å˜úÿÿÿÿ8»¨ö¿1
+K
+java:S1068".Remove this unused "isHttpOnly" private field.(¼¶á8¼¨ö¿1
